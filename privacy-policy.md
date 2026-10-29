@@ -1,6 +1,6 @@
 # Privacy Policy for DayYes
 
-**Last updated: September 22, 2026**
+**Last updated: October 29, 2026**
 
 DayYes ("the App") is a personal daily reflection application developed and published by DayYes.
 
