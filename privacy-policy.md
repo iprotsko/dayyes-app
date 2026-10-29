@@ -26,6 +26,14 @@ DayYes may allow you to export your data.
 
 Exporting data is initiated by you. Once exported, the resulting file is handled by the location, application, or service you choose to save or share it with. DayYes does not automatically receive a copy of your exported data.
 
+**Personal Data of Third Parties**
+
+Your notes may contain personal information about other individuals, including names, dates of birth, addresses, or other identifying details.
+
+You are responsible for reviewing the contents of any exported file before sharing it and for ensuring that your collection, use, or disclosure of third-party personal data complies with applicable laws and respects the rights of others.
+
+DayYes does not review the contents of your notes, select recipients of exported files, or independently publish or distribute your journal data.
+
 ## 4. Notifications
 
 DayYes may provide optional local reminders to help you remember to record your day.
@@ -49,6 +57,14 @@ DayYes does not sell your personal information.
 DayYes does not transmit your daily entries or notes to the developer or share them with third parties.
 
 If you explicitly choose to export or share information, it will be provided to the destination selected by you.
+
+**User-Initiated Sharing**
+
+You are responsible for decisions to disclose, publish, or otherwise distribute information exported from DayYes, including personal information about third parties.
+
+The developer does not control how you or third-party services handle exported files and is not responsible for disclosures independently initiated by users, except where such responsibility cannot lawfully be excluded.
+
+Nothing in this Privacy Policy limits rights or remedies that cannot be excluded under applicable data protection or consumer protection laws.
 
 ## 7. Data Retention and Deletion
 
